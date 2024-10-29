@@ -162,7 +162,7 @@ function Cart() {
                     />
                   </div>
                   <div className="col-md-4">
-                    <button className="btn btn-black">Apply Coupon</button>
+                    <button className="btn btn-black">Apply Coupons</button>
                   </div>
                 </div>
               </div>
